@@ -32,7 +32,7 @@ public class CalculadoraSimples {
         } else {
             System.out.println("Operação inválida!");
             entrada.close();
-            return; // encerra o programa
+            return;
         }
 
         // Mostra o resultado
